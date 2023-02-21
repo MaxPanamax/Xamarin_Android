@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Android_Lis_2.MainPage">
+    <StackLayout Padding="5,5,5,5">
+        <Label Text="Урок номер 5" TextColor="Red" FontSize="25" FontAttributes="Bold"></Label>
+        <Entry IsPassword="False" Placeholder="Пароль"></Entry>
+
+        <StackLayout Orientation="Horizontal">
+            <Label Text="Максим молодец" FontSize="25"></Label>
+            <CheckBox x:Name="checkBox1"></CheckBox>
+        </StackLayout>
+    
+    </StackLayout>
+</ContentPage>
