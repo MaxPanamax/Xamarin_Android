@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Xamarin_Android_Lis_8.MainPage">
+    <StackLayout Margin="15">
+        <BoxView BackgroundColor="Green" HeightRequest="1"/>
+        <Label Text="Start" BackgroundColor="Blue" VerticalOptions="StartAndExpand"/>
+        <BoxView BackgroundColor="Green" HeightRequest="5"/>
+        <Label Text="Centr" BackgroundColor="Blue" VerticalOptions="CenterAndExpand"/>
+        <BoxView BackgroundColor="Green" HeightRequest="10"/>
+        <Label Text="End" BackgroundColor="Blue" VerticalOptions="EndAndExpand"/>
+        <BoxView BackgroundColor="Green" HeightRequest="15"/>
+        <Label Text="Fill" BackgroundColor="Blue" VerticalOptions="FillAndExpand"/>
+        <BoxView BackgroundColor="Green" HeightRequest="10"/>
+        
+    </StackLayout>
+    <!--StackLayout>
+        <Label Text="Слева" BackgroundColor="Green" HorizontalOptions="Start"/>
+        <Label Text="По центру" BackgroundColor="Green" HorizontalOptions="Center"/>
+        <Label Text="Справа" BackgroundColor="Green" HorizontalOptions="End"/>
+        <Label Text="Рстянуто по ОХ" BackgroundColor="Green" HorizontalOptions="Fill"/>
+    </StackLayout-->
+
+</ContentPage>
