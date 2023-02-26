@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\Xamarin_Android_Lis_9\Xamarin_Android_Lis_9\Xamarin_Android_Lis_9\bin\Debug\netstandard2.0\Xamarin_Android_Lis_9.deps.json
+C:\Users\User\source\repos\Xamarin_Android_Lis_9\Xamarin_Android_Lis_9\Xamarin_Android_Lis_9\bin\Debug\netstandard2.0\Xamarin_Android_Lis_9.dll
+C:\Users\User\source\repos\Xamarin_Android_Lis_9\Xamarin_Android_Lis_9\Xamarin_Android_Lis_9\bin\Debug\netstandard2.0\Xamarin_Android_Lis_9.pdb
+C:\Users\User\source\repos\Xamarin_Android_Lis_9\Xamarin_Android_Lis_9\Xamarin_Android_Lis_9\obj\Debug\netstandard2.0\Xamarin_Android_Lis_9.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Xamarin_Android_Lis_9\Xamarin_Android_Lis_9\Xamarin_Android_Lis_9\obj\Debug\netstandard2.0\Xamarin_Android_Lis_9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Xamarin_Android_Lis_9\Xamarin_Android_Lis_9\Xamarin_Android_Lis_9\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\User\source\repos\Xamarin_Android_Lis_9\Xamarin_Android_Lis_9\Xamarin_Android_Lis_9\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\User\source\repos\Xamarin_Android_Lis_9\Xamarin_Android_Lis_9\Xamarin_Android_Lis_9\obj\Debug\netstandard2.0\Xamarin_Android_Lis_9.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Xamarin_Android_Lis_9\Xamarin_Android_Lis_9\Xamarin_Android_Lis_9\obj\Debug\netstandard2.0\Xamarin_Android_Lis_9.AssemblyInfo.cs
+C:\Users\User\source\repos\Xamarin_Android_Lis_9\Xamarin_Android_Lis_9\Xamarin_Android_Lis_9\obj\Debug\netstandard2.0\Xamarin_Android_Lis_9.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Xamarin_Android_Lis_9\Xamarin_Android_Lis_9\Xamarin_Android_Lis_9\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\User\source\repos\Xamarin_Android_Lis_9\Xamarin_Android_Lis_9\Xamarin_Android_Lis_9\obj\Debug\netstandard2.0\Xamarin_Android_Lis_9.dll
+C:\Users\User\source\repos\Xamarin_Android_Lis_9\Xamarin_Android_Lis_9\Xamarin_Android_Lis_9\obj\Debug\netstandard2.0\refint\Xamarin_Android_Lis_9.dll
+C:\Users\User\source\repos\Xamarin_Android_Lis_9\Xamarin_Android_Lis_9\Xamarin_Android_Lis_9\obj\Debug\netstandard2.0\Xamarin_Android_Lis_9.pdb
+C:\Users\User\source\repos\Xamarin_Android_Lis_9\Xamarin_Android_Lis_9\Xamarin_Android_Lis_9\obj\Debug\netstandard2.0\ref\Xamarin_Android_Lis_9.dll

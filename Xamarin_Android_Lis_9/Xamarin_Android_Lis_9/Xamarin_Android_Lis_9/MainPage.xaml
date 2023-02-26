@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Xamarin_Android_Lis_9.MainPage">
+
+    <!--StackLayout>
+        <Frame BorderColor="Gray">
+            <StackLayout Orientation="Horizontal" Spacing="15">
+                <BoxView Color="Red"></BoxView>
+                <Label Text="Первый элемент" VerticalOptions="Center"></Label>
+            </StackLayout>
+        </Frame>
+        <Frame BorderColor="Gray">
+            <StackLayout Orientation="Horizontal" Spacing="15">
+                <BoxView Color="Green"></BoxView>
+                <Label Text="Второй элемент" VerticalOptions="Center"></Label>
+            </StackLayout>
+        </Frame>
+        <Frame BorderColor="Gray">
+            <StackLayout Orientation="Horizontal" Spacing="15">
+                <BoxView Color="Purple"></BoxView>
+                <Label Text="Третий элемент" VerticalOptions="Center"></Label>
+            </StackLayout>
+        </Frame>
+    </StackLayout-->
+
+</ContentPage>

@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33403.182
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xamarin_Android_Lis_9.Android", "Xamarin_Android_Lis_9\Xamarin_Android_Lis_9.Android\Xamarin_Android_Lis_9.Android.csproj", "{B6F71C49-FAB5-4992-8E5B-768C76645FA5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xamarin_Android_Lis_9", "Xamarin_Android_Lis_9\Xamarin_Android_Lis_9\Xamarin_Android_Lis_9.csproj", "{3F325C23-C7E5-445D-AAB0-A81112B0578F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B6F71C49-FAB5-4992-8E5B-768C76645FA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6F71C49-FAB5-4992-8E5B-768C76645FA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6F71C49-FAB5-4992-8E5B-768C76645FA5}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{B6F71C49-FAB5-4992-8E5B-768C76645FA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6F71C49-FAB5-4992-8E5B-768C76645FA5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6F71C49-FAB5-4992-8E5B-768C76645FA5}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{3F325C23-C7E5-445D-AAB0-A81112B0578F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F325C23-C7E5-445D-AAB0-A81112B0578F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F325C23-C7E5-445D-AAB0-A81112B0578F}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{3F325C23-C7E5-445D-AAB0-A81112B0578F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F325C23-C7E5-445D-AAB0-A81112B0578F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F325C23-C7E5-445D-AAB0-A81112B0578F}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FEB39AA0-3DE2-4929-915C-C7ADF742D10C}
+	EndGlobalSection
+EndGlobal
