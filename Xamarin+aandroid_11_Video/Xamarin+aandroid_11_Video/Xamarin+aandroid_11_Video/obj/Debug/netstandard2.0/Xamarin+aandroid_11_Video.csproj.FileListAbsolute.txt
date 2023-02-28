@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\Xamarin+aandroid_11_Video\Xamarin+aandroid_11_Video\Xamarin+aandroid_11_Video\bin\Debug\netstandard2.0\Xamarin+aandroid_11_Video.deps.json
+C:\Users\User\source\repos\Xamarin+aandroid_11_Video\Xamarin+aandroid_11_Video\Xamarin+aandroid_11_Video\bin\Debug\netstandard2.0\Xamarin+aandroid_11_Video.dll
+C:\Users\User\source\repos\Xamarin+aandroid_11_Video\Xamarin+aandroid_11_Video\Xamarin+aandroid_11_Video\bin\Debug\netstandard2.0\Xamarin+aandroid_11_Video.pdb
+C:\Users\User\source\repos\Xamarin+aandroid_11_Video\Xamarin+aandroid_11_Video\Xamarin+aandroid_11_Video\obj\Debug\netstandard2.0\Xamarin+aandroid_11_Video.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Xamarin+aandroid_11_Video\Xamarin+aandroid_11_Video\Xamarin+aandroid_11_Video\obj\Debug\netstandard2.0\Xamarin+aandroid_11_Video.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Xamarin+aandroid_11_Video\Xamarin+aandroid_11_Video\Xamarin+aandroid_11_Video\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\User\source\repos\Xamarin+aandroid_11_Video\Xamarin+aandroid_11_Video\Xamarin+aandroid_11_Video\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\User\source\repos\Xamarin+aandroid_11_Video\Xamarin+aandroid_11_Video\Xamarin+aandroid_11_Video\obj\Debug\netstandard2.0\Xamarin+aandroid_11_Video.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Xamarin+aandroid_11_Video\Xamarin+aandroid_11_Video\Xamarin+aandroid_11_Video\obj\Debug\netstandard2.0\Xamarin+aandroid_11_Video.AssemblyInfo.cs
+C:\Users\User\source\repos\Xamarin+aandroid_11_Video\Xamarin+aandroid_11_Video\Xamarin+aandroid_11_Video\obj\Debug\netstandard2.0\Xamarin+aandroid_11_Video.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Xamarin+aandroid_11_Video\Xamarin+aandroid_11_Video\Xamarin+aandroid_11_Video\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\User\source\repos\Xamarin+aandroid_11_Video\Xamarin+aandroid_11_Video\Xamarin+aandroid_11_Video\obj\Debug\netstandard2.0\Xamarin+aandroid_11_Video.dll
+C:\Users\User\source\repos\Xamarin+aandroid_11_Video\Xamarin+aandroid_11_Video\Xamarin+aandroid_11_Video\obj\Debug\netstandard2.0\refint\Xamarin+aandroid_11_Video.dll
+C:\Users\User\source\repos\Xamarin+aandroid_11_Video\Xamarin+aandroid_11_Video\Xamarin+aandroid_11_Video\obj\Debug\netstandard2.0\Xamarin+aandroid_11_Video.pdb
+C:\Users\User\source\repos\Xamarin+aandroid_11_Video\Xamarin+aandroid_11_Video\Xamarin+aandroid_11_Video\obj\Debug\netstandard2.0\ref\Xamarin+aandroid_11_Video.dll
