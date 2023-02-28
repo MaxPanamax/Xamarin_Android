@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33403.182
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xamarin_Android_Lis_13_SQL.Android", "Xamarin_Android_Lis_13_SQL\Xamarin_Android_Lis_13_SQL.Android\Xamarin_Android_Lis_13_SQL.Android.csproj", "{4C645740-17BB-4151-BCC4-EAD02960C170}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xamarin_Android_Lis_13_SQL", "Xamarin_Android_Lis_13_SQL\Xamarin_Android_Lis_13_SQL\Xamarin_Android_Lis_13_SQL.csproj", "{9C8F41C5-59FD-4D77-99CB-95D3FE076754}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4C645740-17BB-4151-BCC4-EAD02960C170}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C645740-17BB-4151-BCC4-EAD02960C170}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C645740-17BB-4151-BCC4-EAD02960C170}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{4C645740-17BB-4151-BCC4-EAD02960C170}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C645740-17BB-4151-BCC4-EAD02960C170}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C645740-17BB-4151-BCC4-EAD02960C170}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{9C8F41C5-59FD-4D77-99CB-95D3FE076754}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C8F41C5-59FD-4D77-99CB-95D3FE076754}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C8F41C5-59FD-4D77-99CB-95D3FE076754}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{9C8F41C5-59FD-4D77-99CB-95D3FE076754}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C8F41C5-59FD-4D77-99CB-95D3FE076754}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C8F41C5-59FD-4D77-99CB-95D3FE076754}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A207EF24-1616-4304-B48B-5BA2FAD84AE6}
+	EndGlobalSection
+EndGlobal
